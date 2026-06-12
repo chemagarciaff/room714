@@ -1,0 +1,23 @@
+{
+  "name": "room714",
+  "version": "1.0.0",
+  "description": "Solución desarrollada en Node.js que procesa un listado de recetas, consulta la API de TheMealDB, normaliza la información obtenida y la almacena en una base de datos relacional preparada para sistemas de recomendación basados en ingredientes.",
+  "keywords": [
+    "recipes"
+  ],
+  "homepage": "https://github.com/chemagarciaff/room714#readme",
+  "bugs": {
+    "url": "https://github.com/chemagarciaff/room714/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chemagarciaff/room714.git"
+  },
+  "license": "ISC",
+  "author": "Chema Garcia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
